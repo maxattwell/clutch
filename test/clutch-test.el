@@ -93,6 +93,7 @@
 (require 'clutch-test-connection)
 (require 'clutch-test-debug)
 (require 'clutch-test-backends)
+(require 'clutch-test-evil)
 (require 'clutch-document)
 
 ;;;; Test backend matrix
